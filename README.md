@@ -1,2 +1,2 @@
 # Store-Apple-Rexxy
-Store apple
+Store apple | code by rexxy
